@@ -1,5 +1,3 @@
-package org.joshi.gyj.hnsw;
-
 import org.joshi.gyj.nsqldb.db.util.datastrs.algorithms.MurmurHash;
 
 import java.lang.reflect.Array;
